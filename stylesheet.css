@@ -45,6 +45,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h3 {
+	font-size: 45px;
+}
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -86,9 +89,13 @@ body {
 }
 
 .inglewood{
-	width: 95vw
+	width: 95vw;
 }
 
 .child{
+	width: 95vw;
+}
+
+.social{
 	width: 95vw;
 }
